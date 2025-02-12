@@ -48,3 +48,4 @@ output/hpo_graph_up_resnik.pickle
 ./output/G_down_resnik.pickle
 ./output/ICD_HPO_Genetic_extracted_terms_resnik_dict.pickle
 ./output/hpo_graph_up_resnik.pickle
+input/ppi_spl.pickle
