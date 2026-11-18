@@ -1,0 +1,806 @@
+,Disease A,Disease B,Epidemiological network,Genetic network,Shared drugs
+0,F13,F11,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+1,F10,F14,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+2,C83,C82,False,False,"{'Cefprozil', 'Axicabtagene ciloleucel', 'Pixantrone'}"
+3,F12,F13,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+4,L40,M07,False,False,{'Etanercept'}
+5,J41,J42,False,False,{'Clomocycline'}
+6,F13,F15,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+7,F12,F20,False,False,"{'Cariprazine', 'Olanzapine'}"
+8,F10,F13,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+9,F31,F20,False,False,"{'Methotrimeprazine', 'Olanzapine', 'Risperidone', 'Imipramine', 'Cariprazine', 'Amisulpride'}"
+10,I47,I49,False,False,"{'Encainide', 'Disopyramide'}"
+11,G47,F51,False,False,{'Cariprazine'}
+12,F10,F20,False,False,"{'Cariprazine', 'Olanzapine'}"
+13,E11,E66,False,False,"{'Omega-3-carboxylic acids', 'Ertugliflozin', 'Semaglutide'}"
+14,F10,F34,False,False,{'Cariprazine'}
+15,J44,J20,False,False,{'Terpin hydrate'}
+16,E10,E11,False,False,"{'Insulin Human', 'Dulaglutide', 'Acetohexamide', 'Pramlintide', 'Tolazamide', 'Miglitol', 'Dapagliflozin', 'Yellow Fever Vaccine', 'Ertugliflozin', 'Semaglutide', 'Insulin Lispro', 'Sitagliptin', 'Bezafibrate', 'Liraglutide', 'Mifepristone', 'Alogliptin', 'Repaglinide', 'Tolbutamide', 'Insulin Detemir', 'Rosiglitazone', 'Insulin Glulisine', 'Pioglitazone', 'Linagliptin', 'Telmisartan', 'Gliquidone', 'Vildagliptin', 'Glipizide', 'Insulin Glargine', 'Saxagliptin', 'Canagliflozin', 'Glimepiride', 'Glycodiazine', 'Nateglinide', 'Ammonium chloride', 'Acetylcarnitine', 'Exenatide', 'Simethicone', 'Insulin Pork', 'Methylene blue', 'Phenformin', 'Albiglutide', 'Insulin Aspart'}"
+17,C92,D46,False,False,{'Lipegfilgrastim'}
+18,J45,L20,False,False,{'Tranilast'}
+19,I20,I50,False,False,"{'Metoprolol', 'Dalteparin', 'Bisoprolol'}"
+20,K58,K59,False,False,"{'Lubiprostone', 'Methyl cellulose', 'Plantago seed', 'Tegaserod', 'Linaclotide', 'Pinaverium'}"
+21,F41,F32,False,False,{'Cariprazine'}
+22,F48,F34,False,False,{'Cariprazine'}
+23,F14,F15,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+24,F31,F25,False,False,"{'Cariprazine', 'Amisulpride'}"
+25,F14,F19,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+26,F31,F12,False,False,"{'Cariprazine', 'Olanzapine'}"
+27,E11,E14,False,False,{'Bezafibrate'}
+28,E10,E14,False,False,{'Bezafibrate'}
+29,J45,J30,False,False,{'Chloropyramine'}
+30,C82,C85,False,False,{'Cefprozil'}
+31,F10,F12,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+32,J44,J45,False,False,"{'Salmeterol', 'Levosalbutamol', 'Procaterol', 'Doxofylline', 'Olodaterol'}"
+33,C44,D23,False,False,{'Pramocaine'}
+34,E10,E13,False,False,"{'Insulin Human', 'Dulaglutide', 'Acetohexamide', 'Pramlintide', 'Tolazamide', 'Miglitol', 'Dapagliflozin', 'Ertugliflozin', 'Semaglutide', 'Insulin Lispro', 'Sitagliptin', 'Bezafibrate', 'Liraglutide', 'Mifepristone', 'Alogliptin', 'Repaglinide', 'Tolbutamide', 'Insulin Detemir', 'Rosiglitazone', 'Insulin Glulisine', 'Pioglitazone', 'Linagliptin', 'Telmisartan', 'Gliquidone', 'Vildagliptin', 'Glipizide', 'Insulin Glargine', 'Saxagliptin', 'Canagliflozin', 'Glimepiride', 'Glycodiazine', 'Nateglinide', 'Acetylcarnitine', 'Exenatide', 'Insulin Pork', 'Phenformin', 'Albiglutide', 'Insulin Aspart'}"
+35,J45,J43,False,False,"{'Fluticasone furoate', 'Theophylline', 'Bambuterol', 'Dyphylline', 'Vilanterol', 'Oxtriphylline', 'Orciprenaline', 'Olodaterol', 'Aminophylline'}"
+36,I42,I48,False,False,"{'Phenindione', 'Warfarin'}"
+37,F12,F15,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+38,F12,F19,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+39,F31,F15,False,False,"{'Cariprazine', 'Olanzapine'}"
+40,F14,F11,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+41,F17,F20,False,False,"{'Cariprazine', 'Olanzapine'}"
+42,F12,F25,False,False,{'Cariprazine'}
+43,F15,F19,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+44,F31,F10,False,False,"{'Cariprazine', 'Olanzapine'}"
+45,E06,E03,False,False,"{'Thyroid, porcine', 'Levothyroxine', 'Liothyronine', 'Liotrix'}"
+46,F10,F19,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+47,K25,K26,False,False,"{'Sucralfate', 'Bismuth Subcitrate', 'Pirenzepine', 'Nizatidine'}"
+48,F12,F17,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+49,F15,F25,False,False,{'Cariprazine'}
+50,J47,J44,False,False,{'Terpin hydrate'}
+51,C18,C20,False,False,{'Raltitrexed'}
+52,F31,F13,False,False,"{'Cariprazine', 'Olanzapine'}"
+53,J44,J43,False,False,"{'Arformoterol', 'Aclidinium', 'Ipratropium', 'Indacaterol', 'Olodaterol'}"
+54,F60,F91,False,False,{'Cariprazine'}
+55,N18,N25,False,False,"{'Calcitriol', 'Calcidiol', 'Cholecalciferol'}"
+56,F13,F19,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+57,N17,N18,False,False,{'Dalteparin'}
+58,M06,M05,False,False,{'Cefprozil'}
+59,F10,F60,False,False,{'Cariprazine'}
+60,G20,G21,False,False,{'Levodopa'}
+61,F10,F17,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+62,I20,I21,False,False,"{'Metoprolol', 'Dalteparin', 'Isosorbide Mononitrate'}"
+63,E11,E13,False,False,"{'Insulin Human', 'Dulaglutide', 'Acetohexamide', 'Pramlintide', 'Tolazamide', 'Miglitol', 'Dapagliflozin', 'Ertugliflozin', 'Semaglutide', 'Insulin Lispro', 'Sitagliptin', 'Bezafibrate', 'Liraglutide', 'Mifepristone', 'Alogliptin', 'Repaglinide', 'Tolbutamide', 'Insulin Detemir', 'Rosiglitazone', 'Insulin Glulisine', 'Pioglitazone', 'Linagliptin', 'Telmisartan', 'Gliquidone', 'Vildagliptin', 'Glipizide', 'Insulin Glargine', 'Saxagliptin', 'Canagliflozin', 'Glimepiride', 'Glycodiazine', 'Nateglinide', 'Acetylcarnitine', 'Exenatide', 'Insulin Pork', 'Phenformin', 'Albiglutide', 'Insulin Aspart'}"
+64,F12,F11,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+65,F14,F13,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+66,G30,F00,False,False,{'Cefprozil'}
+67,C50,D05,False,False,{'Aminoglutethimide'}
+68,M06,M13,False,False,"{'Baricitinib', 'Tolmetin', 'Nabumetone', 'Cystine', 'Fenoprofen', 'Chloroquine', 'Diflunisal', 'Leflunomide', 'Sulindac', 'Naproxen', 'Rituximab', 'Hydroxychloroquine', 'Mefenamic acid', 'Indomethacin', 'Acemetacin', 'Celecoxib', 'Talniflumate', 'Infliximab', 'Dexibuprofen', 'Methylprednisolone', 'Etodolac', 'Tocilizumab', 'Abatacept', 'Etoricoxib', 'Ibuprofen', 'Oxaprozin', 'Etanercept', 'Immune Globulin Human', 'Salsalate', 'Flurbiprofen', 'Samarium (153Sm) lexidronam', 'Adalimumab', 'D-alpha-Tocopherol acetate', 'Certolizumab pegol', 'Acetylsalicylic acid', 'Tenoxicam', 'Alclofenac', 'Piroxicam', 'Rofecoxib', 'Temsirolimus', 'Golimumab', 'Anakinra', 'Meclofenamic acid', 'Methotrexate', 'Diclofenac', 'Azathioprine', 'Histidine', 'Sulfasalazine', 'Niflumic Acid', 'Aceclofenac', 'Aurothioglucose', 'Gelatin', 'Vitamin E', 'Auranofin', 'Penicillamine', 'Ketoprofen', 'Prednisolone', 'Cyclosporine', 'Tofacitinib'}"
+69,F10,F43,False,False,{'Cariprazine'}
+70,F19,F11,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+71,F15,F11,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+72,C18,D12,False,False,{'Raltitrexed'}
+73,F10,F11,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+74,I12,I13,False,False,"{'Fosinopril', 'Trandolapril'}"
+75,F12,F14,False,False,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+76,M32,L93,False,False,"{'Prednisone', 'Acetylsalicylic acid', 'Belimumab', 'Hydroxychloroquine', 'Prednisolone'}"
+77,I26,I82,False,False,"{'Heparin', 'Parnaparin', 'Certoparin', 'Phenprocoumon', 'Anisindione'}"
+78,C44,D48,False,True,{'Pramocaine'}
+79,F09,F12,False,True,{'Cariprazine'}
+80,F31,F48,False,True,{'Cariprazine'}
+81,F39,F91,False,True,{'Cariprazine'}
+82,F39,F10,False,True,{'Cariprazine'}
+83,L30,D69,False,True,{'Prednisone'}
+84,H15,M89,False,True,{'Cariprazine'}
+85,M06,M31,False,True,{'Cefprozil'}
+86,F48,F82,False,True,{'Cariprazine'}
+87,N00,N01,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+88,M06,G35,False,True,{'Immune Globulin Human'}
+89,F48,F11,False,True,{'Cariprazine'}
+90,G41,F41,False,True,{'Lorazepam'}
+91,E84,M06,False,True,{'Talniflumate'}
+92,E10,D84,False,True,"{'Hydroxyprogesterone caproate', 'Yellow Fever Vaccine', 'Methylene blue', 'Delorazepam', 'Ammonium chloride', 'Simethicone'}"
+93,F18,F19,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+94,C90,C84,False,True,{'Cyclophosphamide'}
+95,I45,F91,False,True,{'Cariprazine'}
+96,L20,L40,False,True,"{'Flumethasone', 'Prednisone'}"
+97,E23,E30,False,True,{'Cariprazine'}
+98,F17,F11,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+99,D89,K06,False,True,{'Cariprazine'}
+100,F15,F91,False,True,{'Cariprazine'}
+101,L71,H40,False,True,{'Brimonidine'}
+102,M06,M07,False,True,"{'Adalimumab', 'Cefprozil', 'Golimumab', 'Ibuprofen', 'Etanercept', 'Prednisolone'}"
+103,F48,F39,False,True,{'Cariprazine'}
+104,F32,K58,False,True,{'Amitriptyline'}
+105,F51,F14,False,True,{'Cariprazine'}
+106,F39,F13,False,True,{'Cariprazine'}
+107,F10,F91,False,True,{'Cariprazine'}
+108,F44,F10,False,True,{'Cariprazine'}
+109,N06,N07,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+110,M06,L93,False,True,"{'Prednisolone', 'Hydroxychloroquine', 'Acetylsalicylic acid'}"
+111,H44,M67,False,True,{'Cariprazine'}
+112,I50,I48,False,True,{'Ouabain'}
+113,L10,G35,False,True,{'Prednisone'}
+114,F48,F15,False,True,{'Cariprazine'}
+115,I49,I48,False,True,{'Encainide'}
+116,F18,F25,False,True,{'Cariprazine'}
+117,J45,M13,False,True,"{'Vitamin E', 'Hydrocortisone', 'D-alpha-Tocopherol acetate'}"
+118,M06,L40,False,True,"{'Methotrexate', 'Infliximab', 'Etanercept', 'Cyclosporine', 'Tofacitinib'}"
+119,L10,L23,False,True,{'Prednisone'}
+120,K51,M07,False,True,"{'Prednisolone', 'Golimumab'}"
+121,G35,N02,False,True,"{'Nabiximols', 'Prednisone', 'Cannabidiol'}"
+122,H20,J63,False,True,{'Prednisone'}
+123,F39,N42,False,True,{'Cariprazine'}
+124,F17,F15,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+125,H44,F48,False,True,{'Cariprazine'}
+126,N03,N04,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+127,F48,F14,False,True,{'Cariprazine'}
+128,E10,N18,False,True,"{'Yellow Fever Vaccine', 'Hydroxyprogesterone caproate', 'Delorazepam', 'Methylene blue', 'Ammonium chloride', 'Simethicone'}"
+129,K51,L93,False,True,{'Prednisolone'}
+130,F14,F25,False,True,{'Cariprazine'}
+131,K51,M32,False,True,{'Prednisolone'}
+132,C92,C91,False,True,{'Imatinib'}
+133,F31,I45,False,True,{'Cariprazine'}
+134,E53,E56,False,True,"{'Oxymetholone', 'Pyridoxine'}"
+135,H20,M34,False,True,{'Prednisone'}
+136,M35,M31,False,True,{'Cefprozil'}
+137,F17,F14,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+138,M35,M06,False,True,{'Cefprozil'}
+139,F39,F20,False,True,{'Cariprazine'}
+140,K51,L40,False,True,"{'Infliximab', 'Hydrocortisone', 'Tofacitinib'}"
+141,N03,N01,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+142,F13,F91,False,True,{'Cariprazine'}
+143,G52,G51,False,True,{'Cariprazine'}
+144,L30,L20,False,True,"{'Tacrolimus', 'Prednisone', 'Aloe Polysaccharide', 'Peppermint oil', 'Doxepin', 'Pimecrolimus', 'Tranilast', 'Crisaborole', 'Flumethasone'}"
+145,L30,L40,False,True,"{'Flumethasone', 'Prednisone'}"
+146,F12,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+147,L10,L51,False,True,{'Prednisone'}
+148,F10,F06,False,True,{'Cariprazine'}
+149,L10,L40,False,True,{'Prednisone'}
+150,N18,E66,False,True,{'Fenproporex'}
+151,C81,C84,False,True,"{'Cefprozil', 'Mechlorethamine', 'Prednisone'}"
+152,I11,I12,False,True,"{'Fosinopril', 'Trandolapril'}"
+153,J67,L94,False,True,{'Cefprozil'}
+154,F17,F91,False,True,{'Cariprazine'}
+155,H20,L13,False,True,{'Prednisone'}
+156,F39,F18,False,True,{'Cariprazine'}
+157,L57,L55,False,True,{'Sulisobenzone'}
+158,N42,F40,False,True,{'Cariprazine'}
+159,F39,F34,False,True,{'Cariprazine'}
+160,B38,B39,False,True,{'Ketoconazole'}
+161,L57,D48,False,True,"{'Sulisobenzone', 'Afamelanotide'}"
+162,L81,D48,False,True,{'Arbutin'}
+163,F16,I45,False,True,{'Cariprazine'}
+164,M32,G35,False,True,{'Prednisone'}
+165,M13,M54,False,True,"{'Etoricoxib', 'Acemetacin', 'Nicoboxil'}"
+166,L93,L40,False,True,{'Prednisone'}
+167,L51,N03,False,True,{'Prednisone'}
+168,E13,I50,False,True,"{'Telmisartan', 'Trandolapril', 'Ramipril', 'Fosinopril', 'Lisinopril', 'Quinapril'}"
+169,I20,N18,False,True,{'Dalteparin'}
+170,F24,N95,False,True,{'Cariprazine'}
+171,F39,F50,False,True,{'Cariprazine'}
+172,E10,E66,False,True,"{'Ertugliflozin', 'Semaglutide'}"
+173,N04,N06,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+174,F48,F13,False,True,{'Cariprazine'}
+175,D86,G35,False,True,{'Prednisone'}
+176,M35,L20,False,True,{'Cefprozil'}
+177,B39,B44,False,True,{'Itraconazole'}
+178,F14,K59,False,True,{'Cariprazine'}
+179,F15,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+180,E88,L81,False,True,{'Cariprazine'}
+181,F31,F39,False,True,{'Cariprazine'}
+182,M08,M06,False,True,"{'Tolmetin', 'Acetylsalicylic acid', 'Tocilizumab', 'Abatacept', 'Aurothioglucose', 'Ibuprofen', 'Celecoxib', 'Methotrexate'}"
+183,I10,I50,False,True,"{'Hydralazine', 'Perindopril', 'Enalapril', 'Captopril'}"
+184,F17,F13,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+185,B55,N03,False,True,"{'Cantharidin', 'Sodium stibogluconate'}"
+186,F20,H52,False,True,{'Cariprazine'}
+187,E11,I50,False,True,"{'Telmisartan', 'Irbesartan', 'Pixantrone'}"
+188,F10,F99,False,True,{'Cariprazine'}
+189,F12,F42,False,True,{'Cariprazine'}
+190,F10,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+191,J45,G35,False,True,{'Ibudilast'}
+192,L20,E27,False,True,{'Prednisone'}
+193,F18,F11,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+194,M08,M07,False,True,{'Ibuprofen'}
+195,G35,M34,False,True,{'Prednisone'}
+196,F13,F16,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+197,E06,G70,False,True,{'Prednisone'}
+198,N03,N02,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+199,F48,F16,False,True,{'Cariprazine'}
+200,N02,B16,False,True,{'Hepatitis B Vaccine (Recombinant)'}
+201,F10,F50,False,True,{'Cariprazine'}
+202,H20,L10,False,True,{'Prednisone'}
+203,M32,L20,False,True,{'Prednisone'}
+204,M08,L93,False,True,{'Acetylsalicylic acid'}
+205,M31,M07,False,True,{'Cefprozil'}
+206,G93,F09,False,True,{'Cariprazine'}
+207,F48,F44,False,True,{'Cariprazine'}
+208,F17,F16,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+209,E03,E05,False,True,{'Liotrix'}
+210,J60,J66,False,True,{'Cefprozil'}
+211,F31,F19,False,True,"{'Cariprazine', 'Olanzapine'}"
+212,F48,F43,False,True,{'Cariprazine'}
+213,D86,L40,False,True,{'Prednisone'}
+214,J32,N03,False,True,{'Clarithromycin'}
+215,M08,L40,False,True,{'Methotrexate'}
+216,K27,K21,False,True,{'Bismuth Subcitrate'}
+217,K50,M05,False,True,{'Cefprozil'}
+218,H35,I77,False,True,{'Cariprazine'}
+219,N04,N05,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+220,M32,N03,False,True,{'Prednisone'}
+221,J45,L40,False,True,"{'Hydrocortisone', 'Fluticasone propionate'}"
+222,F10,F42,False,True,{'Cariprazine'}
+223,H20,H16,False,True,{'Prednisone'}
+224,F48,F99,False,True,{'Cariprazine'}
+225,F13,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+226,N05,N07,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+227,F48,F18,False,True,{'Cariprazine'}
+228,F52,G50,False,True,{'Cariprazine'}
+229,E88,E70,False,True,{'Cariprazine'}
+230,I73,I20,False,True,{'Lercanidipine'}
+231,F19,F91,False,True,{'Cariprazine'}
+232,F39,F25,False,True,{'Cariprazine'}
+233,N17,I20,False,True,{'Dalteparin'}
+234,H36,H40,False,True,{'Ripasudil'}
+235,F16,F19,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+236,F17,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+237,F48,F50,False,True,{'Cariprazine'}
+238,N42,H61,False,True,{'Cariprazine'}
+239,J45,K51,False,True,"{'Budesonide', 'Hydrocortisone'}"
+240,F22,F10,False,True,{'Cariprazine'}
+241,F48,F09,False,True,{'Cariprazine'}
+242,H15,L94,False,True,{'Cariprazine'}
+243,L40,M34,False,True,{'Prednisone'}
+244,F39,F12,False,True,{'Cariprazine'}
+245,J32,N02,False,True,{'Clarithromycin'}
+246,M87,M13,False,True,{'Fluoride ion F-18'}
+247,K51,M06,False,True,"{'Infliximab', 'Prednisolone', 'Golimumab', 'Tofacitinib'}"
+248,G35,M13,False,True,{'Immune Globulin Human'}
+249,L23,B02,False,True,{'Prednisone'}
+250,F48,F41,False,True,{'Cariprazine'}
+251,F18,F91,False,True,{'Cariprazine'}
+252,E06,E27,False,True,"{'Prednisolone', 'Prednisone'}"
+253,J45,L30,False,True,{'Tranilast'}
+254,C81,C82,False,True,{'Cefprozil'}
+255,L10,M06,False,True,{'Prednisolone'}
+256,L10,A17,False,True,{'Prednisone'}
+257,N64,G50,False,True,{'Cariprazine'}
+258,G47,F06,False,True,{'Cariprazine'}
+259,N03,N06,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+260,M32,N02,False,True,{'Prednisone'}
+261,N05,N06,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+262,F31,F17,False,True,"{'Cariprazine', 'Olanzapine'}"
+263,M06,L20,False,True,{'Cefprozil'}
+264,F80,F81,False,True,{'Cariprazine'}
+265,F12,I45,False,True,{'Cariprazine'}
+266,F31,F30,False,True,{'Lamotrigine'}
+267,F16,F25,False,True,{'Cariprazine'}
+268,F48,F42,False,True,{'Cariprazine'}
+269,E14,I70,False,True,{'Bezafibrate'}
+270,F48,M67,False,True,{'Cariprazine'}
+271,E14,E13,False,True,{'Bezafibrate'}
+272,M35,K50,False,True,{'Cefprozil'}
+273,M08,N02,False,True,"{'Aurothioglucose', 'Methotrexate'}"
+274,H20,D86,False,True,{'Prednisone'}
+275,F09,F11,False,True,{'Cariprazine'}
+276,L51,D86,False,True,{'Prednisone'}
+277,G70,G71,False,True,{'Cariprazine'}
+278,F39,E23,False,True,{'Cariprazine'}
+279,F31,F22,False,True,{'Cariprazine'}
+280,H20,B02,False,True,{'Prednisone'}
+281,E21,N25,False,True,{'Cariprazine'}
+282,N04,N07,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+283,L51,B02,False,True,{'Prednisone'}
+284,F52,M79,False,True,{'Cariprazine'}
+285,F31,G50,False,True,{'Cariprazine'}
+286,H20,L93,False,True,{'Prednisone'}
+287,C81,C83,False,True,{'Cefprozil'}
+288,E10,G30,False,True,{'Methylene blue'}
+289,H20,M32,False,True,{'Prednisone'}
+290,N04,N00,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+291,F19,I45,False,True,{'Cariprazine'}
+292,J30,L50,False,True,"{'Dexchlorpheniramine maleate', 'Carbinoxamine', 'Cyproheptadine'}"
+293,F22,F06,False,True,{'Cariprazine'}
+294,F48,F91,False,True,{'Cariprazine'}
+295,F48,F10,False,True,{'Cariprazine'}
+296,L10,L20,False,True,{'Prednisone'}
+297,M62,M24,False,True,{'Cariprazine'}
+298,F15,I45,False,True,{'Cariprazine'}
+299,E10,I70,False,True,{'Bezafibrate'}
+300,H20,L51,False,True,{'Prednisone'}
+301,L23,L30,False,True,"{'Bentoquatam', 'Prednisone'}"
+302,I63,I26,False,True,{'Acenocoumarol'}
+303,L93,M34,False,True,{'Prednisone'}
+304,K25,K27,False,True,"{'Bismuth Subcitrate', 'Nizatidine', 'Anisotropine Methylbromide', 'Diphemanil Methylsulfate', 'Pirenzepine'}"
+305,H61,F40,False,True,{'Cariprazine'}
+306,N80,D07,False,True,"{'Leuprolide', 'Goserelin', 'Buserelin'}"
+307,K51,N03,False,True,"{'Infliximab', 'Kappadione', 'Budesonide', 'Tofacitinib'}"
+308,F31,F11,False,True,"{'Cariprazine', 'Olanzapine'}"
+309,N02,E03,False,True,"{'Liotrix', 'Mecasermin'}"
+310,N00,N07,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+311,C84,C82,False,True,{'Cefprozil'}
+312,E27,L26,False,True,{'Prednisone'}
+313,K50,M31,False,True,{'Cefprozil'}
+314,L10,N03,False,True,{'Prednisone'}
+315,N17,I11,False,True,{'Trandolapril'}
+316,F25,F91,False,True,{'Cariprazine'}
+317,L10,K51,False,True,{'Prednisolone'}
+318,F09,F42,False,True,{'Cariprazine'}
+319,F11,F91,False,True,{'Cariprazine'}
+320,I47,I48,False,True,"{'Propafenone', 'Encainide'}"
+321,F14,F16,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+322,E06,N03,False,True,"{'Liotrix', 'Prednisone'}"
+323,M06,N02,False,True,"{'Infliximab', 'Dexibuprofen', 'Aurothioglucose', 'Temsirolimus', 'Methotrexate', 'Tofacitinib'}"
+324,F09,F14,False,True,{'Cariprazine'}
+325,N01,N07,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+326,F31,F80,False,True,{'Cariprazine'}
+327,I34,I45,False,True,{'Cariprazine'}
+328,F06,F51,False,True,{'Cariprazine'}
+329,I09,N03,False,True,{'Benzathine benzylpenicillin'}
+330,L80,L40,False,True,{'Methoxsalen'}
+331,H20,L30,False,True,{'Prednisone'}
+332,C50,C67,False,True,{'Mitomycin'}
+333,H52,H18,False,True,{'Cariprazine'}
+334,K50,M07,False,True,{'Cefprozil'}
+335,F20,F80,False,True,{'Cariprazine'}
+336,F14,F43,False,True,{'Cariprazine'}
+337,J45,M06,False,True,"{'Vitamin E', 'D-alpha-Tocopherol acetate'}"
+338,M32,M34,False,True,{'Prednisone'}
+339,L70,A75,False,True,{'Tetracycline'}
+340,C90,C81,False,True,{'Carmustine'}
+341,F84,F98,False,True,{'Cariprazine'}
+342,A30,K50,False,True,{'Cefprozil'}
+343,N17,I50,False,True,"{'Dalteparin', 'Trandolapril'}"
+344,M32,B02,False,True,{'Prednisone'}
+345,L13,L30,False,True,"{'Dapsone', 'Sulfoxone', 'Sulfapyridine', 'Prednisone'}"
+346,F39,F15,False,True,{'Cariprazine'}
+347,C84,E24,False,True,{'Cefprozil'}
+348,F16,F11,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+349,N42,H93,False,True,{'Cariprazine'}
+350,F09,F10,False,True,{'Cariprazine'}
+351,L23,D69,False,True,{'Prednisone'}
+352,N00,N06,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+353,F80,N49,False,True,{'Cariprazine'}
+354,K51,N02,False,True,"{'Infliximab', 'Kappadione', 'Budesonide', 'Tofacitinib'}"
+355,F13,I45,False,True,{'Cariprazine'}
+356,C81,C85,False,True,"{'Chlorambucil', 'Cefprozil', 'Mechlorethamine'}"
+357,G35,L93,False,True,{'Prednisone'}
+358,F41,F20,False,True,{'Cariprazine'}
+359,E06,E05,False,True,{'Liotrix'}
+360,F39,F19,False,True,{'Cariprazine'}
+361,K50,L20,False,True,{'Cefprozil'}
+362,I20,G43,False,True,{'Metoprolol'}
+363,L10,N02,False,True,{'Prednisone'}
+364,L94,J43,False,True,{'Cefprozil'}
+365,L71,L70,False,True,"{'Metronidazole', 'Benzoyl peroxide', 'Loteprednol'}"
+366,G50,M79,False,True,{'Cariprazine'}
+367,F31,F14,False,True,"{'Cariprazine', 'Olanzapine'}"
+368,E06,L10,False,True,"{'Prednisolone', 'Prednisone'}"
+369,F48,F20,False,True,{'Cariprazine'}
+370,N01,N06,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+371,F06,F14,False,True,{'Cariprazine'}
+372,G35,L40,False,True,{'Prednisone'}
+373,B02,D69,False,True,{'Prednisone'}
+374,F20,F14,False,True,"{'Cariprazine', 'Olanzapine'}"
+375,K27,K26,False,True,"{'Bismuth Subcitrate', 'Pirenzepine', 'Nizatidine'}"
+376,D89,K66,False,True,{'Cariprazine'}
+377,M45,M06,False,True,"{'Adalimumab', 'Infliximab', 'Acetylsalicylic acid', 'Alclofenac', 'Sulindac', 'Etoricoxib', 'Aceclofenac', 'Golimumab', 'Ibuprofen', 'Naproxen', 'Etanercept', 'Ketoprofen', 'Acemetacin', 'Indomethacin', 'Celecoxib', 'Prednisolone', 'Tofacitinib'}"
+378,F10,F15,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+379,I09,N02,False,True,{'Benzathine benzylpenicillin'}
+380,C50,C90,False,True,{'Temsirolimus'}
+381,L20,B02,False,True,{'Prednisone'}
+382,N03,N07,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+383,M31,L20,False,True,{'Cefprozil'}
+384,H44,H57,False,True,{'Cariprazine'}
+385,C83,C88,False,True,{'Cefprozil'}
+386,H20,D69,False,True,{'Prednisone'}
+387,C50,D07,False,True,{'Ixabepilone'}
+388,F11,I45,False,True,{'Cariprazine'}
+389,L23,G35,False,True,{'Prednisone'}
+390,N03,N00,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+391,F11,K59,False,True,{'Cariprazine'}
+392,L23,A17,False,True,{'Prednisone'}
+393,I11,I13,False,True,"{'Fosinopril', 'Trandolapril'}"
+394,N05,N00,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+395,M08,N03,False,True,"{'Aurothioglucose', 'Methotrexate'}"
+396,M45,M07,False,True,"{'Adalimumab', 'Golimumab', 'Ibuprofen', 'Etanercept', 'Prednisolone'}"
+397,D29,D40,False,True,"{'Triptorelin', 'Melatonin', 'Megestrol acetate', 'Histrelin', 'Cabazitaxel', 'Nilutamide', 'Testosterone enanthate', 'rsPSMA Vaccine', 'Fluciclovine (18F)', 'Leuprolide', 'Apalutamide', 'Choline C 11', 'Radium Ra 223 Dichloride', 'Goserelin', 'Ixabepilone', 'Capromab pendetide', 'Conjugated estrogens', 'Testosterone cypionate', 'Choline C-11', 'Flutamide', 'Quinestrol', 'Samarium (153Sm) lexidronam', 'Estrogens, esterified', 'Enzalutamide', 'Testosterone undecanoate', 'Finasteride', 'Abiraterone', 'Denosumab', 'Sipuleucel-T', 'Degarelix', 'Abarelix', 'Dutasteride', 'Estradiol', 'Estramustine', 'Estradiol valerate', 'Docetaxel', 'Equilin', 'Buserelin', 'Diethylstilbestrol', 'Toremifene'}"
+398,F14,F42,False,True,{'Cariprazine'}
+399,I50,I49,False,True,"{'Digitoxin', 'Deslanoside', 'Digoxin'}"
+400,E10,N08,False,True,{'Bezafibrate'}
+401,F19,F25,False,True,{'Cariprazine'}
+402,H15,L13,False,True,{'Cariprazine'}
+403,H20,E27,False,True,{'Prednisone'}
+404,M06,B02,False,True,{'Tofacitinib'}
+405,G35,G70,False,True,{'Prednisone'}
+406,L20,M05,False,True,{'Cefprozil'}
+407,I73,I67,False,True,{'Enprofylline'}
+408,F39,F60,False,True,{'Cariprazine'}
+409,E10,N02,False,True,"{'Telmisartan', 'Saxagliptin'}"
+410,C84,C85,False,True,"{'Cefprozil', 'Mechlorethamine'}"
+411,M45,L40,False,True,"{'Infliximab', 'Tofacitinib', 'Etanercept'}"
+412,E78,I35,False,True,{'Cariprazine'}
+413,C69,D31,False,True,"{'Tacrolimus', 'Edoxudine', 'Rose bengal', 'Fluorometholone', 'Dexamethasone'}"
+414,F16,F91,False,True,{'Cariprazine'}
+415,M06,M32,False,True,"{'Prednisolone', 'Hydroxychloroquine', 'Acetylsalicylic acid'}"
+416,H20,G35,False,True,{'Prednisone'}
+417,F10,F25,False,True,{'Cariprazine'}
+418,F12,F16,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+419,L23,L20,False,True,{'Prednisone'}
+420,L23,L40,False,True,{'Prednisone'}
+421,L63,L40,False,True,{'Anthralin'}
+422,E16,F31,False,True,{'Cariprazine'}
+423,F14,F91,False,True,{'Cariprazine'}
+424,H20,L23,False,True,{'Prednisone'}
+425,D86,N02,False,True,{'Prednisone'}
+426,L13,A17,False,True,{'Prednisone'}
+427,C83,C84,False,True,{'Cefprozil'}
+428,L10,D86,False,True,{'Prednisone'}
+429,F12,F43,False,True,{'Cariprazine'}
+430,F48,F19,False,True,{'Cariprazine'}
+431,F39,F16,False,True,{'Cariprazine'}
+432,F31,F52,False,True,{'Cariprazine'}
+433,L81,L98,False,True,{'Cariprazine'}
+434,N08,I70,False,True,{'Bezafibrate'}
+435,M45,K51,False,True,"{'Infliximab', 'Prednisolone', 'Golimumab', 'Tofacitinib'}"
+436,L13,L23,False,True,{'Prednisone'}
+437,L40,L43,False,True,{'Difluocortolone'}
+438,F31,F16,False,True,"{'Cariprazine', 'Olanzapine'}"
+439,L71,N03,False,True,{'Benzoyl peroxide'}
+440,L30,B02,False,True,{'Prednisone'}
+441,A30,L52,False,True,{'Clofazimine'}
+442,J45,N02,False,True,"{'Penbutolol', 'Budesonide', 'Theophylline', 'Salbutamol', 'Chloropyramine'}"
+443,M32,D69,False,True,{'Prednisone'}
+444,E06,D86,False,True,{'Prednisone'}
+445,E27,A17,False,True,{'Prednisone'}
+446,B02,L40,False,True,"{'Prednisone', 'Tofacitinib'}"
+447,H47,H02,False,True,{'Cariprazine'}
+448,F17,F19,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+449,L10,M32,False,True,"{'Prednisolone', 'Prednisone'}"
+450,M51,L91,False,True,{'Cariprazine'}
+451,F09,N32,False,True,{'Cariprazine'}
+452,N05,N01,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+453,J45,L50,False,True,{'Chlorphenamine'}
+454,F15,F16,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+455,H20,L20,False,True,{'Prednisone'}
+456,H20,L40,False,True,{'Prednisone'}
+457,L51,L40,False,True,{'Prednisone'}
+458,F81,F84,False,True,{'Cariprazine'}
+459,L13,L26,False,True,{'Prednisone'}
+460,F63,F95,False,True,{'Cariprazine'}
+461,F13,F25,False,True,{'Cariprazine'}
+462,M06,D84,False,True,{'Immune Globulin Human'}
+463,A01,J32,False,True,{'Ciprofloxacin'}
+464,F48,F25,False,True,{'Cariprazine'}
+465,F10,F16,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+466,I11,I50,False,True,"{'Fosinopril', 'Trandolapril'}"
+467,F39,F11,False,True,{'Cariprazine'}
+468,F18,I45,False,True,{'Cariprazine'}
+469,F31,F99,False,True,{'Cariprazine'}
+470,F31,F18,False,True,"{'Cariprazine', 'Olanzapine'}"
+471,F41,F12,False,True,"{'Cariprazine', 'Prochlorperazine'}"
+472,F17,F25,False,True,{'Cariprazine'}
+473,N18,I50,False,True,"{'Dalteparin', 'Pixantrone', 'Dopamine'}"
+474,K50,M06,False,True,{'Cefprozil'}
+475,H20,N03,False,True,{'Prednisone'}
+476,L13,L94,False,True,{'Cariprazine'}
+477,F48,F12,False,True,{'Cariprazine'}
+478,F31,F50,False,True,"{'Cariprazine', 'Fluoxetine', 'Imipramine'}"
+479,F14,I45,False,True,{'Cariprazine'}
+480,F48,F60,False,True,{'Cariprazine'}
+481,E06,H20,False,True,{'Prednisone'}
+482,J66,J43,False,True,{'Cefprozil'}
+483,F39,F09,False,True,{'Cariprazine'}
+484,F20,F32,False,True,"{'Cariprazine', 'Brexpiprazole'}"
+485,M32,D86,False,True,{'Prednisone'}
+486,F31,F09,False,True,{'Cariprazine'}
+487,N03,G70,False,True,{'Prednisone'}
+488,F11,F25,False,True,{'Cariprazine'}
+489,F39,F41,False,True,{'Cariprazine'}
+490,N17,I12,False,True,{'Trandolapril'}
+491,H20,G70,False,True,{'Prednisone'}
+492,F31,M79,False,True,"{'Fluoxetine', 'Cariprazine'}"
+493,F16,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+494,M06,D69,False,True,{'Immune Globulin Human'}
+495,F22,F51,False,True,{'Cariprazine'}
+496,F48,F22,False,True,{'Cariprazine'}
+497,F39,F42,False,True,{'Cariprazine'}
+498,F10,F80,False,True,{'Cariprazine'}
+499,A01,J01,False,True,{'Ciprofloxacin'}
+500,N04,N01,False,True,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+501,F31,F42,False,True,"{'Fluoxetine', 'Cariprazine'}"
+502,F14,F18,False,True,"{'Olanzapine', 'Prochlorperazine', 'Lofexidine', 'Cariprazine', 'Methadone'}"
+503,F39,F14,False,True,{'Cariprazine'}
+504,M32,L40,False,True,{'Prednisone'}
+505,F31,M67,False,True,{'Cariprazine'}
+506,A17,L26,False,True,{'Prednisone'}
+507,H20,N02,False,True,{'Prednisone'}
+508,M08,M32,False,True,{'Acetylsalicylic acid'}
+509,G35,L20,False,True,{'Prednisone'}
+510,A30,M35,False,True,{'Cefprozil'}
+511,F12,F91,False,True,{'Cariprazine'}
+512,F10,F41,False,True,"{'Cariprazine', 'Prochlorperazine'}"
+513,H40,I50,False,True,{'Acetazolamide'}
+514,F33,F43,True,False,{'Cariprazine'}
+515,K29,K31,True,False,{'Bismuth Subcitrate'}
+516,J03,J35,True,False,"{'Cefditoren', 'Clarithromycin'}"
+517,I21,I50,True,False,"{'Metoprolol', 'Eplerenone', 'Dalteparin', 'Trandolapril'}"
+518,J39,J47,True,False,{'Terpin hydrate'}
+519,G47,M51,True,False,{'Cariprazine'}
+520,E13,N08,True,False,{'Bezafibrate'}
+521,H93,F34,True,False,{'Cariprazine'}
+522,K86,E84,True,False,{'Pancrelipase'}
+523,M67,M94,True,False,{'Cariprazine'}
+524,J01,J32,True,False,"{'Ciprofloxacin', 'Clarithromycin'}"
+525,G93,F19,True,False,{'Cariprazine'}
+526,F33,F11,True,False,{'Cariprazine'}
+527,F17,E87,True,False,{'Cariprazine'}
+528,E11,N08,True,False,{'Bezafibrate'}
+529,N85,N88,True,False,{'Cariprazine'}
+530,C67,C68,True,False,{'Mitomycin'}
+531,N05,E13,True,False,"{'Telmisartan', 'Saxagliptin'}"
+532,E87,F63,True,False,{'Cariprazine'}
+533,M51,M96,True,False,{'Cariprazine'}
+534,N42,N32,True,False,{'Cariprazine'}
+535,F33,F32,True,False,{'Cariprazine'}
+536,H81,H93,True,False,{'Cariprazine'}
+537,L90,N64,True,False,{'Cariprazine'}
+538,H93,H81,True,False,{'Cariprazine'}
+539,H61,E79,True,False,{'Cariprazine'}
+540,M24,M67,True,False,{'Cariprazine'}
+541,F13,F41,True,False,"{'Cariprazine', 'Prochlorperazine'}"
+542,E78,I77,True,False,{'Cariprazine'}
+543,K08,F31,True,False,{'Cariprazine'}
+544,F43,F50,True,False,"{'Cariprazine', 'Imipramine'}"
+545,H21,H11,True,False,{'Cariprazine'}
+546,F45,F13,True,False,{'Cariprazine'}
+547,J01,J02,True,False,{'Clarithromycin'}
+548,M89,F32,True,False,{'Cariprazine'}
+549,F17,J98,True,False,{'Cariprazine'}
+550,H61,M79,True,False,{'Cariprazine'}
+551,F33,F41,True,False,{'Cariprazine'}
+552,H27,H11,True,False,{'Cariprazine'}
+553,K59,K51,True,False,{'Plantago seed'}
+554,F90,F91,True,False,{'Cariprazine'}
+555,K59,F45,True,False,{'Cariprazine'}
+556,F45,L98,True,False,{'Cariprazine'}
+557,G47,F81,True,False,{'Cariprazine'}
+558,N30,N02,True,False,"{'Trimethoprim', 'Hyaluronic acid'}"
+559,D12,D13,True,False,{'Fluorouracil'}
+560,G47,E78,True,False,{'Cariprazine'}
+561,F80,F82,True,False,{'Cariprazine'}
+562,H81,F34,True,False,{'Cariprazine'}
+563,N05,B99,True,False,{'Domiphen'}
+564,H61,M96,True,False,{'Cariprazine'}
+565,J35,J31,True,False,"{'Cefditoren', 'Clarithromycin'}"
+566,M25,M67,True,False,{'Cariprazine'}
+567,F44,L98,True,False,{'Cariprazine'}
+568,K59,F33,True,False,{'Cariprazine'}
+569,F60,F33,True,False,{'Cariprazine'}
+570,B02,N03,True,False,"{'Cantharidin', 'Prednisone', 'Tofacitinib'}"
+571,E10,E87,True,False,{'Ammonium chloride'}
+572,B02,N05,True,False,"{'Cantharidin', 'Prednisone', 'Tofacitinib'}"
+573,N05,M45,True,False,"{'Infliximab', 'Tofacitinib'}"
+574,F40,F42,True,False,"{'Paroxetine', 'Sertraline', 'Fluoxetine', 'Cariprazine'}"
+575,F60,F31,True,False,{'Cariprazine'}
+576,F41,F13,True,False,"{'Cariprazine', 'Prochlorperazine'}"
+577,H02,H52,True,False,{'Cariprazine'}
+578,F51,F52,True,False,{'Cariprazine'}
+579,E79,M79,True,False,{'Cariprazine'}
+580,F32,N48,True,False,{'Cariprazine'}
+581,F48,N48,True,False,{'Cariprazine'}
+582,G47,E79,True,False,{'Cariprazine'}
+583,C83,C85,True,False,{'Cefprozil'}
+584,F81,F90,True,False,{'Cariprazine'}
+585,E06,K51,True,False,{'Prednisolone'}
+586,F33,F13,True,False,{'Cariprazine'}
+587,F41,L98,True,False,{'Cariprazine'}
+588,H10,N02,True,False,"{'Sulfisoxazole', 'Chloropyramine', 'Triprolidine', 'Prednisone'}"
+589,M51,G54,True,False,{'Cariprazine'}
+590,J98,J45,True,False,{'Dexamethasone'}
+591,H10,J31,True,False,{'Prednisone'}
+592,D29,N40,True,False,"{'Dutasteride', 'Finasteride'}"
+593,B02,H10,True,False,"{'Loteprednol', 'Prednisone'}"
+594,E87,F10,True,False,{'Cariprazine'}
+595,L71,H16,True,False,{'Loteprednol'}
+596,F41,K08,True,False,{'Cariprazine'}
+597,F82,F84,True,False,{'Cariprazine'}
+598,G54,M62,True,False,{'Cariprazine'}
+599,D72,M84,True,False,{'Cariprazine'}
+600,N18,N05,True,False,{'Dalteparin'}
+601,G20,F02,True,False,{'Cefprozil'}
+602,F33,L98,True,False,{'Cariprazine'}
+603,I77,L98,True,False,{'Cariprazine'}
+604,H02,H18,True,False,{'Cariprazine'}
+605,H02,H04,True,False,{'Cariprazine'}
+606,M24,M25,True,False,{'Cariprazine'}
+607,F41,F44,True,False,{'Cariprazine'}
+608,M96,G54,True,False,{'Cariprazine'}
+609,F41,F43,True,False,{'Cariprazine'}
+610,E16,H35,True,False,{'Cariprazine'}
+611,F20,F15,True,False,"{'Cariprazine', 'Olanzapine'}"
+612,H81,I77,True,False,{'Cariprazine'}
+613,E21,D68,True,False,{'Cariprazine'}
+614,F13,F43,True,False,{'Cariprazine'}
+615,F17,K08,True,False,{'Cariprazine'}
+616,F32,F43,True,False,"{'Sertraline', 'Cariprazine'}"
+617,M67,M72,True,False,{'Cariprazine'}
+618,N83,N85,True,False,{'Cariprazine'}
+619,F17,F63,True,False,{'Cariprazine'}
+620,M67,M24,True,False,{'Cariprazine'}
+621,N30,N11,True,False,{'Acetyl sulfisoxazole'}
+622,K66,N83,True,False,{'Cariprazine'}
+623,G47,N83,True,False,{'Cariprazine'}
+624,N39,N42,True,False,{'Cariprazine'}
+625,G54,H61,True,False,{'Cariprazine'}
+626,J35,J03,True,False,"{'Cefditoren', 'Clarithromycin'}"
+627,E14,N08,True,False,{'Bezafibrate'}
+628,K29,K21,True,False,{'Bismuth Subcitrate'}
+629,K29,K26,True,False,{'Bismuth Subcitrate'}
+630,H04,H44,True,False,{'Cariprazine'}
+631,K21,K25,True,False,{'Bismuth Subcitrate'}
+632,F17,E78,True,False,{'Cariprazine'}
+633,F32,F34,True,False,{'Cariprazine'}
+634,J35,J32,True,False,{'Clarithromycin'}
+635,K25,K31,True,False,{'Bismuth Subcitrate'}
+636,E83,E21,True,False,{'Cariprazine'}
+637,J43,J20,True,False,{'Dyphylline'}
+638,K08,F60,True,False,{'Cariprazine'}
+639,H18,H21,True,False,{'Cariprazine'}
+640,F48,F32,True,False,{'Cariprazine'}
+641,K25,K21,True,False,{'Bismuth Subcitrate'}
+642,F20,F25,True,False,"{'Asenapine', 'Pimavanserin', 'Cariprazine', 'Armodafinil', 'Amisulpride'}"
+643,G47,G25,True,False,{'Cariprazine'}
+644,E83,D68,True,False,{'Cariprazine'}
+645,F63,F40,True,False,{'Cariprazine'}
+646,H61,H74,True,False,{'Cariprazine'}
+647,F33,F50,True,False,{'Cariprazine'}
+648,I10,I15,True,False,"{'Hydralazine', 'Enalapril', 'Captopril'}"
+649,N48,L90,True,False,{'Cariprazine'}
+650,M25,M94,True,False,{'Cariprazine'}
+651,F51,F48,True,False,{'Cariprazine'}
+652,D12,C20,True,False,{'Raltitrexed'}
+653,D68,H74,True,False,{'Cariprazine'}
+654,E84,K86,True,False,{'Pancrelipase'}
+655,H57,F09,True,False,{'Cariprazine'}
+656,F20,F60,True,False,{'Cariprazine'}
+657,N30,H10,True,False,{'Acetyl sulfisoxazole'}
+658,D48,C50,True,False,"{'Aminoglutethimide', 'Ixabepilone', 'Mitomycin', 'Iodine', 'Temsirolimus'}"
+659,N30,N41,True,False,"{'Ciprofloxacin', 'Trimethoprim'}"
+660,F32,F42,True,False,"{'Paroxetine', 'Sertraline', 'Fluoxetine', 'Cariprazine'}"
+661,D29,N42,True,False,"{'Goserelin', 'Estradiol valerate'}"
+662,N39,N32,True,False,{'Cariprazine'}
+663,I34,I35,True,False,{'Cariprazine'}
+664,K21,K31,True,False,{'Bismuth Subcitrate'}
+665,F33,F42,True,False,{'Cariprazine'}
+666,E78,G51,True,False,{'Cariprazine'}
+667,F60,F40,True,False,{'Cariprazine'}
+668,J35,J01,True,False,{'Clarithromycin'}
+669,I13,E13,True,False,"{'Fosinopril', 'Trandolapril'}"
+670,G54,M51,True,False,{'Cariprazine'}
+671,E87,F50,True,False,{'Cariprazine'}
+672,D48,D23,True,False,{'Pramocaine'}
+673,M51,A69,True,False,{'Cefprozil'}
+674,N03,B99,True,False,{'Domiphen'}
+675,F20,F22,True,False,{'Cariprazine'}
+676,F32,F48,True,False,{'Cariprazine'}
+677,H18,H61,True,False,{'Cariprazine'}
+678,H44,H11,True,False,{'Cariprazine'}
+679,H27,H21,True,False,{'Cariprazine'}
+680,N02,N41,True,False,{'Trimethoprim'}
+681,E87,H81,True,False,{'Cariprazine'}
+682,I35,I36,True,False,{'Cariprazine'}
+683,F20,F63,True,False,"{'Cariprazine', 'Clomipramine'}"
+684,F13,F45,True,False,{'Cariprazine'}
+685,E16,E87,True,False,{'Cariprazine'}
+686,H61,M51,True,False,{'Cariprazine'}
+687,H52,H02,True,False,{'Cariprazine'}
+688,G43,G44,True,False,{'Amitriptyline'}
+689,F33,F45,True,False,{'Cariprazine'}
+690,J39,J44,True,False,{'Terpin hydrate'}
+691,F43,F45,True,False,{'Cariprazine'}
+692,J31,H16,True,False,{'Prednisone'}
+693,H57,I77,True,False,{'Cariprazine'}
+694,N03,N05,True,False,"{'Strontium ranelate', 'Eprosartan', 'Nabilone', 'Domiphen', 'Ethionamide', 'Acetylcholine', 'Fomivirsen', 'Hyaluronic acid', 'Hydrocodone', 'Magnesium gluconate', 'Peginterferon alfa-2a', 'Peppermint oil', 'Remestemcel-L', 'Indapamide', 'Capreomycin', 'Methocarbamol', 'Darunavir', 'Monopotassium phosphate', 'Rosuvastatin', 'Tretinoin', 'Chlorothiazide', 'Didanosine', 'Buclizine', 'Infliximab', 'Dexibuprofen', 'Travoprost', 'Lomustine', 'Posaconazole', 'Emtricitabine', 'Gemtuzumab ozogamicin', 'Idelalisib', 'Chloropyramine', 'Levonorgestrel', 'Cetylpyridinium', 'Fosamprenavir', 'Doxorubicin', 'Dolutegravir', 'Somatostatin', 'Telmisartan', 'Saxagliptin', 'Moxisylyte', 'Clindamycin', 'Dacarbazine', 'Ketamine', 'Hexylresorcinol', 'Abacavir', 'Tolcapone', 'Mipomersen', 'Cantharidin', 'Flumethasone', 'Temsirolimus', 'Methylphenidate', 'Pseudoephedrine', 'Potassium', 'Demeclocycline', 'Fish oil', 'Omega-3-carboxylic acids', 'Dexmethylphenidate', 'Proguanil', 'Flunitrazepam', 'Bacitracin', 'Lorpiprazole', 'Pyrazinamide', 'Trimethadione', 'Azidocillin', 'Diloxanide', 'Cinnarizine', 'Neomycin', 'Coagulation factor VII human', 'Elvitegravir', 'Bromodiphenhydramine', 'Asunaprevir', 'Furosemide', 'Doxylamine', 'Clarithromycin', 'Melatonin', 'Safinamide', 'Megestrol acetate', 'Liotrix', 'Benzoyl peroxide', 'Floxuridine', 'Methyl cellulose', 'Nabiximols', 'Lasofoxifene', 'Oxygen', 'Hexocyclium', 'Sacubitril', 'Fludeoxyglucose F-18', 'Tenofovir disoproxil', 'Triflusal', 'alpha-Tocopherol succinate', 'Nivolumab', 'Penbutolol', 'Lopinavir', 'Amiodarone', 'Nisoldipine', 'Hexachlorophene', 'Vinorelbine', 'Hydroxocobalamin', 'Ritonavir', 'Ixabepilone', 'Atazanavir', 'Dalteparin', 'Amiloride', 'Phenelzine', 'Procarbazine', 'Salmon Calcitonin', 'Caspofungin', 'Human cytomegalovirus immune globulin', 'Tolnaftate', 'Lindane', 'Natural alpha interferon', 'Salbutamol', 'Iodine', 'Tegafur', 'Cycloserine', 'Isocarboxazid', 'Tetrabenazine', 'Human vaccinia virus immune globulin', 'Hyaluronidase (Human Recombinant)', 'Hepatitis B Vaccine (Recombinant)', 'Angiotensin II', 'Bioallethrin', 'Polysilicone-15', 'Amitriptyline', 'Lacidipine', 'Perboric acid', 'Labetalol', 'Thiopental', 'Magnesium acetate tetrahydrate', 'Cerivastatin', 'Isoflurophate', 'Medium-chain triglycerides', 'Ribavirin', 'Zalcitabine', 'Hydroxystilbamidine Isethionate', 'Captopril', 'Cyclothiazide', 'Bufexamac', 'Ethchlorvynol', 'Ferric sulfate', 'Etravirine', 'Phenazopyridine', 'Hyaluronidase', 'Hexobarbital', 'Piracetam', 'Pramocaine', 'Pancrelipase', 'Thrombomodulin Alfa', 'Novobiocin', 'Guanfacine', 'Florbetaben (18F)', 'Etoposide', 'Methsuximide', 'Cresol', 'Dyclonine', 'Iohexol', 'Lymecycline', 'Protein S human', 'Beta carotene', 'Rilpivirine', 'Calcium levulinate', 'Cyclizine', 'Triprolidine', 'Haloperidol', 'Hepatitis A Vaccine', 'Glycyrrhizic acid', 'Zotepine', 'Dinoprostone', 'Misoprostol', 'Sodium glycerophosphate', 'Stem bromelain', 'Ampicillin', 'Droxidopa', 'Aurothioglucose', 'Flutemetamol (18F)', 'Normethadone', 'Methyclothiazide', 'Chlorphenesin', 'Aprepitant', 'Hydroxyethyl Starch', 'Propanoic acid', 'Ifosfamide', 'Suramin', 'Prednisone', 'Sofosbuvir', 'Oxymetholone', 'Ethinamate', 'Nicoboxil', 'Nevirapine', 'Unoprostone', 'Dimetindene', 'Bovine type I collagen', 'Trimethoprim', 'Tofacitinib', 'Zidovudine', 'Florbetapir (18F)', 'Gadobenic acid', 'Cannabidiol', 'Phenindamine', 'Theophylline', 'Thonzylamine', 'Rolapitant', 'Esmolol', 'Benzathine benzylpenicillin', 'Besilesomab', 'Bimatoprost', 'Anidulafungin', 'Chlorthalidone', 'Tetrachlorodecaoxide', 'Atomoxetine', 'Peginterferon alfa-2b', 'Raltegravir', 'Torasemide', 'Omeprazole', 'Fencamfamine', 'Talimogene laherparepvec', 'Metolazone', 'Flecainide', 'Sulfisoxazole', 'Budesonide', 'Estrogens, esterified', 'Mecasermin', 'Antipyrine', 'Micafungin', 'Potassium Iodide', 'Sodium acetate', 'Carboplatin', 'alpha-Tocopherol acetate', 'Trabectedin', 'Tamibarotene', 'Amprenavir', 'Hydroflumethiazide', 'Phentolamine', 'Ubidecarenone', 'Bicisate', 'Oxybenzone', 'Methotrexate', 'Nonoxynol-9', 'Bismuth Subsalicylate', 'Griseofulvin', 'Streptomycin', 'Kappadione', 'Cobicistat', 'Nelfinavir', 'Bexarotene', 'Talc', 'Velpatasvir', 'Sodium stibogluconate', 'Paramethadione', 'N-acetyltyrosine', 'Zinc oxide'}"
+695,M51,M62,True,False,{'Cariprazine'}
+696,F50,F40,True,False,"{'Cariprazine', 'Fluoxetine', 'Paroxetine', 'Imipramine'}"
+697,E13,I12,True,False,"{'Fosinopril', 'Lisinopril', 'Quinapril', 'Trandolapril'}"
+698,H18,H27,True,False,{'Cariprazine'}
+699,F41,F33,True,False,{'Cariprazine'}
+700,F32,F13,True,False,{'Cariprazine'}
+701,H44,H21,True,False,{'Cariprazine'}
+702,K26,K31,True,False,{'Bismuth Subcitrate'}
+703,F48,G25,True,False,{'Cariprazine'}
+704,F13,F33,True,False,{'Cariprazine'}
+705,F32,F33,True,False,{'Cariprazine'}
+706,K26,K21,True,False,{'Bismuth Subcitrate'}
+707,K59,L90,True,False,{'Cariprazine'}
+708,K59,F43,True,False,{'Cariprazine'}
+709,F63,F32,True,False,{'Cariprazine'}
+710,F32,L98,True,False,{'Cariprazine'}
+711,F81,N83,True,False,{'Cariprazine'}
+712,I34,I36,True,False,{'Cariprazine'}
+713,E78,E87,True,False,{'Cariprazine'}
+714,N42,D40,True,False,"{'Goserelin', 'Estradiol valerate'}"
+715,H10,H16,True,False,"{'Loteprednol', 'Sulfacetamide', 'Prednisone', 'Cromoglicic acid', 'Natamycin', 'Lodoxamide'}"
+716,K12,K09,True,False,{'Doxepin'}
+717,F60,F11,True,False,{'Cariprazine'}
+718,F13,F20,True,False,"{'Cariprazine', 'Olanzapine'}"
+719,K08,F10,True,False,{'Cariprazine'}
+720,B37,D48,True,False,{'Clotrimazole'}
+721,G47,F48,True,False,{'Cariprazine'}
+722,E78,E79,True,False,{'Cariprazine'}
+723,M24,M94,True,False,{'Cariprazine'}
+724,E87,F12,True,False,{'Cariprazine'}
+725,F43,F81,True,False,{'Cariprazine'}
+726,N39,D72,True,False,{'Cariprazine'}
+727,N05,I10,True,False,{'Captopril'}
+728,K59,F41,True,False,{'Cariprazine'}
+729,H81,G51,True,False,"{'Cefprozil', 'Cariprazine'}"
+730,F41,K12,True,False,{'Doxepin'}
+731,K08,F13,True,False,{'Cariprazine'}
+732,C38,D48,True,False,"{'Tacrolimus', 'Cefazolin', 'Pixantrone', 'Phenoxymethylpenicillin'}"
+733,J32,J01,True,False,"{'Ciprofloxacin', 'Clarithromycin'}"
+734,F12,F60,True,False,{'Cariprazine'}
+735,F43,F11,True,False,{'Cariprazine'}
+736,E87,F20,True,False,{'Cariprazine'}
+737,F90,F19,True,False,{'Cariprazine'}
+738,H02,K00,True,False,{'Cariprazine'}
+739,K21,K29,True,False,{'Bismuth Subcitrate'}
+740,D29,N02,True,False,"{'Megestrol acetate', 'Estrogens, esterified', 'Melatonin', 'Ixabepilone'}"
+741,E88,H47,True,False,{'Cariprazine'}
+742,D48,D05,True,False,"{'Tamoxifen', 'Aminoglutethimide'}"
+743,K51,K58,True,False,{'Plantago seed'}
+744,F12,F63,True,False,{'Cariprazine'}
+745,G54,M96,True,False,{'Cariprazine'}
+746,N40,D40,True,False,"{'Dutasteride', 'Finasteride'}"
+747,G51,I77,True,False,{'Cariprazine'}
+748,F91,F98,True,False,{'Cariprazine'}
+749,F41,F45,True,False,{'Cariprazine'}
+750,E88,G25,True,False,{'Cariprazine'}
+751,H10,N05,True,False,"{'Sulfisoxazole', 'Chloropyramine', 'Triprolidine', 'Prednisone'}"
+752,F45,F44,True,False,{'Cariprazine'}
+753,K59,F13,True,False,{'Cariprazine'}
+754,F60,F13,True,False,{'Cariprazine'}
+755,H61,D68,True,False,{'Cariprazine'}
+756,F45,F43,True,False,{'Cariprazine'}
+757,F32,F45,True,False,{'Cariprazine'}
+758,E78,H93,True,False,{'Cariprazine'}
+759,F43,F90,True,False,{'Cariprazine'}
+760,N85,N95,True,False,{'Cariprazine'}
+761,K26,K29,True,False,{'Bismuth Subcitrate'}
+762,H04,K00,True,False,{'Cariprazine'}
+763,K08,F32,True,False,{'Cariprazine'}
+764,H81,G43,True,False,{'Flunarizine'}
+765,F32,F40,True,False,"{'Venlafaxine', 'Sertraline', 'Fluoxetine', 'Cariprazine', 'Paroxetine'}"
+766,F10,G93,True,False,{'Cariprazine'}
+767,H04,H21,True,False,{'Cariprazine'}
+768,H18,H44,True,False,{'Cariprazine'}
+769,F10,F63,True,False,{'Cariprazine'}
+770,F33,F40,True,False,{'Cariprazine'}
+771,F43,F40,True,False,"{'Sertraline', 'Cariprazine', 'Imipramine'}"
+772,J41,J40,True,False,{'Clomocycline'}
+773,I13,I50,True,False,"{'Fosinopril', 'Trandolapril'}"
+774,K29,K25,True,False,{'Bismuth Subcitrate'}
+775,F51,K08,True,False,{'Cariprazine'}
+776,F60,F63,True,False,{'Cariprazine'}
+777,F45,F32,True,False,{'Cariprazine'}
+778,F80,F84,True,False,{'Cariprazine'}
+779,F50,F60,True,False,{'Cariprazine'}
+780,F33,F60,True,False,{'Cariprazine'}
+781,F60,F43,True,False,{'Cariprazine'}
+782,D72,N32,True,False,{'Cariprazine'}
+783,H02,H27,True,False,{'Cariprazine'}
+784,F17,F60,True,False,{'Cariprazine'}
+785,F43,F60,True,False,{'Cariprazine'}
+786,N88,N95,True,False,{'Cariprazine'}
+787,N18,N03,True,False,{'Dalteparin'}
+788,M24,M72,True,False,{'Cariprazine'}
+789,M89,F60,True,False,{'Cariprazine'}
+790,E78,F34,True,False,{'Cariprazine'}
+791,H11,H44,True,False,{'Cariprazine'}
+792,F13,F22,True,False,{'Cariprazine'}
+793,H11,H27,True,False,{'Cariprazine'}
+794,F44,F32,True,False,{'Cariprazine'}
+795,K08,F48,True,False,{'Cariprazine'}
+796,F90,F98,True,False,{'Cariprazine'}
+797,H18,H11,True,False,{'Cariprazine'}
+798,F60,F32,True,False,{'Cariprazine'}
+799,E78,H81,True,False,{'Cariprazine'}
+800,H27,H44,True,False,{'Cariprazine'}
+801,F51,F32,True,False,{'Cariprazine'}
+802,F33,F44,True,False,{'Cariprazine'}
+803,K59,K60,True,False,{'Plantago seed'}
+804,E87,F60,True,False,{'Cariprazine'}
